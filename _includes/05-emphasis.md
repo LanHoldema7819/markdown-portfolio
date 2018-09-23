@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am _very proficent when it comes to weapons._ I am a **skilled** wrestler. _I will fight for those I care about._
