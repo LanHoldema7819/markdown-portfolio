@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Thanos snap] 8c7a4aa97027b610-600x400.png
